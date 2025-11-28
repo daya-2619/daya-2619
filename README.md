@@ -5,8 +5,7 @@
 📫 **Email:** [dayamay2619@gmail.com](mailto:dayamay2619@gmail.com)  
 🌐 **Portfolio & Profiles:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dayamay-das-036466351)  
-- 🧑‍💻 [GitHub](https://github.com/daya-2619)
-- 💀 [Leetcode ](https://leetcode.com/u/dyno_2619)
+- 💀 [Leetcode ](https://leetcode.com/u/daya_2619/)
 ---
 
 ## 🚀 About Me
